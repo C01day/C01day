@@ -22,6 +22,8 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C01day&repo=vuepress-teach)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![blog](https://img.shields.io/badge/Blog-C01day-blue](https://www.c01day.com)
+
 
 
 
